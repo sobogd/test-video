@@ -2,7 +2,7 @@ import { VideoData } from "./types";
 
 const mockData = {
   videoUrl:
-    "https://storage.googleapis.com/loomz-downloaded-videos/storage_folder/id_246_1732534559723low.mp4",
+    "https://iq-rest.s3.eu-central-1.amazonaws.com/id_246_1732534559723low.mp4",
   startTime: 2,
   endTime: 57,
   captions: [
